@@ -1,0 +1,26 @@
+# Ejercicio de las 4 Vs del Big Data - Dependencias
+
+# Visualización de datos
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Análisis numérico (requerido por matplotlib)
+numpy>=1.19.0
+
+# Manipulación de datos (para futuras extensiones)
+pandas>=1.3.0
+
+# Librerías estándar de Python (incluidas por defecto)
+# json
+# csv
+# argparse
+# time
+# pathlib
+# subprocess
+# collections
+# datetime
+# random
+# glob
+# shutil
+# os
+# sys
